@@ -1,0 +1,8 @@
+{
+  "name": "SmartBasket - Grocery Cost Compare App",
+  "description": "Smart grocery price comparison app across Blinkit, Zepto, BigBasket, JioMart, Instamart, and local Kirana stores with smart basket optimization, monthly budget tracking, and AI savings assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
